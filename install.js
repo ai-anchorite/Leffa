@@ -14,7 +14,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://github.com/ai-anchorite/Leffa app",
+          "git clone https://github.com/ai-anchorite/Leffa-pinokio app",
         ]
       }
     },
