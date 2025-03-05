@@ -1,6 +1,6 @@
 ## A [Pinokio](https://pinokio.computer) port of [Leffa](https://github.com/franciszzj/Leffa) Virtual Try-on and Pose Transfer. 
 
-### Pinokio version installs a fork -> https://github.com/ai-anchorite/Leffa
+### Pinokio version installs a fork -> https://github.com/ai-anchorite/Leffa-pinokio
 
 
 # *Leffa*: Learning Flow Fields in Attention for Controllable Person Image Generation
